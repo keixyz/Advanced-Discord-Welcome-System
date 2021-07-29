@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "main": "kei.js",
+  "scripts": {
+    "start": "node kei.js"
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.0",
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.9",
+    "opusscript": "0.0.8",
+    "request": "^2.88.2",
+    "ffmpeg": "^0.0.4",
+    "avconv": "^3.1.0",
+    "ffmpeg-static": "^4.3.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
